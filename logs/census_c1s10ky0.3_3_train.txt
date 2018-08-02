@@ -1,0 +1,68 @@
+System information:
+system name-> Linux; node name-> holy2c01215.rc.fas.harvard.edu; release-> 3.10.0-514.6.1.el7.x86_64; version-> #1 SMP Wed Jan 18 13:06:36 UTC 2017; machine-> x86_64
+
+writing logs to: ../logs/for-census_c1s10ky0.3_3_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000.txt
+
+LEARNING RULE LIST via LOWER BOUND Prefix Map
+min(objective): 0.35434 -> 0.32323, length: 1, cache size: 20
+before garbage_collect. num_nodes: 86, log10(remaining): 1
+after garbage_collect. num_nodes: 86, log10(remaining): 1
+min(objective): 0.32323 -> 0.31673, length: 2, cache size: 87
+min(objective): 0.31673 -> 0.30083, length: 2, cache size: 88
+min(objective): 0.30083 -> 0.29123, length: 2, cache size: 93
+min(objective): 0.29123 -> 0.28913, length: 2, cache size: 94
+before garbage_collect. num_nodes: 161, log10(remaining): 1
+after garbage_collect. num_nodes: 161, log10(remaining): 1
+min(objective): 0.28913 -> 0.28732, length: 4, cache size: 1909
+min(objective): 0.28732 -> 0.28442, length: 4, cache size: 1910
+min(objective): 0.28442 -> 0.28062, length: 4, cache size: 1925
+before garbage_collect. num_nodes: 1956, log10(remaining): 1
+after garbage_collect. num_nodes: 1956, log10(remaining): 1
+min(objective): 0.28062 -> 0.27412, length: 3, cache size: 51152
+before garbage_collect. num_nodes: 51174, log10(remaining): 1
+after garbage_collect. num_nodes: 51174, log10(remaining): 1
+iter: 10000, tree: 118488, queue: 109165, pmap: 109395, log10(remaining): 1, time elapsed: 0.969426
+iter: 20000, tree: 146905, queue: 129776, pmap: 130884, log10(remaining): 1, time elapsed: 1.702437
+iter: 30000, tree: 152582, queue: 130606, pmap: 138069, log10(remaining): 1, time elapsed: 2.372173
+iter: 40000, tree: 149326, queue: 124966, pmap: 141837, log10(remaining): 1, time elapsed: 2.985182
+iter: 50000, tree: 140028, queue: 115337, pmap: 142387, log10(remaining): 1, time elapsed: 3.573415
+iter: 60000, tree: 129809, queue: 105134, pmap: 142408, log10(remaining): 1, time elapsed: 4.145321
+iter: 70000, tree: 119446, queue: 94972, pmap: 142416, log10(remaining): 1, time elapsed: 4.700890
+iter: 80000, tree: 109053, queue: 84773, pmap: 142416, log10(remaining): 1, time elapsed: 5.247511
+iter: 90000, tree: 98255, queue: 74568, pmap: 142416, log10(remaining): 1, time elapsed: 5.784914
+iter: 100000, tree: 86936, queue: 64272, pmap: 142416, log10(remaining): 1, time elapsed: 6.314313
+iter: 110000, tree: 75401, queue: 54102, pmap: 142416, log10(remaining): 1, time elapsed: 6.833583
+iter: 120000, tree: 63232, queue: 43872, pmap: 142416, log10(remaining): 1, time elapsed: 7.354061
+iter: 130000, tree: 50351, queue: 33646, pmap: 142416, log10(remaining): 1, time elapsed: 7.870860
+iter: 140000, tree: 35987, queue: 23468, pmap: 142416, log10(remaining): 1, time elapsed: 8.376868
+iter: 150000, tree: 19146, queue: 13282, pmap: 142416, log10(remaining): 1, time elapsed: 8.882126
+iter: 155271, tree: 104, queue: 0, pmap: 142416, log10(remaining): 1, time elapsed: 9.145674
+Exited because queue empty
+TREE mem usage: 17395092
+PMAP mem usage: 12512120
+QUEUE mem usage: 2097152
+Writing queue elements to: queue.txt
+Deleting queue elements and corresponding nodes in the cache,since they may not be reachable by the tree's destructor
+
+minimum objective: 0.2741244124
+minimum lower bound in queue: 1.0000000000
+
+final num_nodes: 104
+final num_evaluated: 24797
+final min_objective: 0.27412
+final accuracy: 0.75588
+
+OPTIMAL RULE LIST
+if ({dHours<40:not-1}) then ({dRpincome:1})
+else if ({iWork89:1}) then ({dRpincome:not-1})
+else if ({dAge<40:1}) then ({dRpincome:1})
+else ({dRpincome:not-1})
+
+writing optimal rule list to: ../logs/for-census_c1s10ky0.3_3_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000-opt.txt
+
+final total time: 9.146328
+
+delete identical points indicator
+delete rules
+delete labels
+tree destructors

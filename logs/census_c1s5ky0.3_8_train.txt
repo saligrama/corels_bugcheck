@@ -1,0 +1,101 @@
+System information:
+system name-> Linux; node name-> holy2c01215.rc.fas.harvard.edu; release-> 3.10.0-514.6.1.el7.x86_64; version-> #1 SMP Wed Jan 18 13:06:36 UTC 2017; machine-> x86_64
+
+writing logs to: ../logs/for-census_c1s5ky0.3_8_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000.txt
+
+LEARNING RULE LIST via LOWER BOUND Prefix Map
+min(objective): 0.35195 -> 0.31871, length: 1, cache size: 21
+before garbage_collect. num_nodes: 88, log10(remaining): 1
+after garbage_collect. num_nodes: 88, log10(remaining): 1
+min(objective): 0.31871 -> 0.30308, length: 2, cache size: 90
+min(objective): 0.30308 -> 0.29127, length: 2, cache size: 95
+before garbage_collect. num_nodes: 164, log10(remaining): 1
+after garbage_collect. num_nodes: 164, log10(remaining): 1
+min(objective): 0.29127 -> 0.29125, length: 4, cache size: 1183
+before garbage_collect. num_nodes: 1220, log10(remaining): 1
+after garbage_collect. num_nodes: 1220, log10(remaining): 1
+min(objective): 0.29125 -> 0.28627, length: 2, cache size: 1361
+before garbage_collect. num_nodes: 1392, log10(remaining): 1
+after garbage_collect. num_nodes: 1392, log10(remaining): 1
+min(objective): 0.28627 -> 0.28605, length: 4, cache size: 1880
+min(objective): 0.28605 -> 0.27504, length: 4, cache size: 1896
+min(objective): 0.27504 -> 0.27504, length: 4, cache size: 1918
+before garbage_collect. num_nodes: 1927, log10(remaining): 1
+after garbage_collect. num_nodes: 1927, log10(remaining): 1
+min(objective): 0.27504 -> 0.27443, length: 4, cache size: 2613
+before garbage_collect. num_nodes: 2644, log10(remaining): 1
+after garbage_collect. num_nodes: 2644, log10(remaining): 1
+min(objective): 0.27443 -> 0.27321, length: 6, cache size: 145958
+min(objective): 0.27321 -> 0.27321, length: 6, cache size: 145971
+before garbage_collect. num_nodes: 145984, log10(remaining): 1
+after garbage_collect. num_nodes: 145984, log10(remaining): 1
+min(objective): 0.27321 -> 0.27201, length: 6, cache size: 151132
+before garbage_collect. num_nodes: 151157, log10(remaining): 1
+after garbage_collect. num_nodes: 151157, log10(remaining): 1
+iter: 10000, tree: 171779, queue: 162233, pmap: 164072, log10(remaining): 1, time elapsed: 0.716645
+iter: 20000, tree: 243243, queue: 224742, pmap: 225618, log10(remaining): 1, time elapsed: 1.243377
+iter: 30000, tree: 282574, queue: 255730, pmap: 257764, log10(remaining): 1, time elapsed: 1.701743
+iter: 40000, tree: 306903, queue: 272587, pmap: 274831, log10(remaining): 1, time elapsed: 2.140685
+iter: 50000, tree: 320885, queue: 280155, pmap: 286782, log10(remaining): 1, time elapsed: 2.549718
+iter: 60000, tree: 328557, queue: 282609, pmap: 296347, log10(remaining): 1, time elapsed: 2.935668
+iter: 70000, tree: 328677, queue: 279252, pmap: 301663, log10(remaining): 1, time elapsed: 3.301320
+iter: 80000, tree: 325119, queue: 273407, pmap: 305124, log10(remaining): 1, time elapsed: 3.656657
+iter: 90000, tree: 318912, queue: 265723, pmap: 307047, log10(remaining): 1, time elapsed: 4.004876
+iter: 100000, tree: 311134, queue: 257177, pmap: 308356, log10(remaining): 1, time elapsed: 4.353635
+iter: 110000, tree: 301935, queue: 247581, pmap: 308777, log10(remaining): 1, time elapsed: 4.685475
+iter: 120000, tree: 292276, queue: 237719, pmap: 309007, log10(remaining): 1, time elapsed: 5.011302
+iter: 130000, tree: 282281, queue: 227690, pmap: 309115, log10(remaining): 1, time elapsed: 5.330834
+iter: 140000, tree: 272084, queue: 217586, pmap: 309122, log10(remaining): 1, time elapsed: 5.647821
+iter: 150000, tree: 261748, queue: 207438, pmap: 309122, log10(remaining): 1, time elapsed: 5.961795
+iter: 160000, tree: 251400, queue: 197295, pmap: 309122, log10(remaining): 1, time elapsed: 6.268929
+iter: 170000, tree: 240838, queue: 187080, pmap: 309122, log10(remaining): 1, time elapsed: 6.575478
+iter: 180000, tree: 230351, queue: 176941, pmap: 309122, log10(remaining): 1, time elapsed: 6.880654
+iter: 190000, tree: 219767, queue: 166730, pmap: 309122, log10(remaining): 1, time elapsed: 7.188291
+iter: 200000, tree: 209049, queue: 156580, pmap: 309122, log10(remaining): 1, time elapsed: 7.502239
+iter: 210000, tree: 197963, queue: 146437, pmap: 309122, log10(remaining): 1, time elapsed: 7.804362
+iter: 220000, tree: 187267, queue: 136351, pmap: 309122, log10(remaining): 1, time elapsed: 8.100476
+iter: 230000, tree: 176170, queue: 126180, pmap: 309122, log10(remaining): 1, time elapsed: 8.396649
+iter: 240000, tree: 164453, queue: 116085, pmap: 309122, log10(remaining): 1, time elapsed: 8.692935
+iter: 250000, tree: 152686, queue: 106024, pmap: 309122, log10(remaining): 1, time elapsed: 8.985850
+iter: 260000, tree: 140607, queue: 95910, pmap: 309122, log10(remaining): 1, time elapsed: 9.280443
+iter: 270000, tree: 128292, queue: 85797, pmap: 309122, log10(remaining): 1, time elapsed: 9.573818
+iter: 280000, tree: 115031, queue: 75684, pmap: 309122, log10(remaining): 1, time elapsed: 9.866856
+iter: 290000, tree: 101147, queue: 65585, pmap: 309122, log10(remaining): 1, time elapsed: 10.155630
+iter: 300000, tree: 87099, queue: 55412, pmap: 309122, log10(remaining): 1, time elapsed: 10.442713
+iter: 310000, tree: 72204, queue: 45280, pmap: 309122, log10(remaining): 1, time elapsed: 10.730149
+iter: 320000, tree: 56377, queue: 35174, pmap: 309122, log10(remaining): 1, time elapsed: 11.020407
+iter: 330000, tree: 39822, queue: 25100, pmap: 309122, log10(remaining): 1, time elapsed: 11.302847
+iter: 340000, tree: 19931, queue: 14981, pmap: 309122, log10(remaining): 1, time elapsed: 11.587684
+iter: 343399, tree: 140, queue: 0, pmap: 309122, log10(remaining): 1, time elapsed: 11.684898
+Exited because queue empty
+TREE mem usage: 38467156
+PMAP mem usage: 28289212
+QUEUE mem usage: 4194304
+Writing queue elements to: queue.txt
+Deleting queue elements and corresponding nodes in the cache,since they may not be reachable by the tree's destructor
+
+minimum objective: 0.2720120120
+minimum lower bound in queue: 1.0000000000
+
+final num_nodes: 140
+final num_evaluated: 54870
+final min_objective: 0.27201
+final accuracy: 0.78799
+
+OPTIMAL RULE LIST
+if ({iMilitary:not-4}) then ({dRpincome:1})
+else if ({iDisabl1:not-2}) then ({dRpincome:not-1})
+else if ({dHour89=0:1}) then ({dRpincome:1})
+else if ({iRelat1:0}) then ({dRpincome:1})
+else if ({dHours<30:1}) then ({dRpincome:not-1})
+else if ({dAge<30:1}) then ({dRpincome:not-1})
+else ({dRpincome:1})
+
+writing optimal rule list to: ../logs/for-census_c1s5ky0.3_8_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000-opt.txt
+
+final total time: 11.714909
+
+delete identical points indicator
+delete rules
+delete labels
+tree destructors

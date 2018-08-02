@@ -1,0 +1,93 @@
+System information:
+system name-> Linux; node name-> holy2c01215.rc.fas.harvard.edu; release-> 3.10.0-514.6.1.el7.x86_64; version-> #1 SMP Wed Jan 18 13:06:36 UTC 2017; machine-> x86_64
+
+writing logs to: ../logs/for-census_c1s50ky0.28_7_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000.txt
+
+LEARNING RULE LIST via LOWER BOUND Prefix Map
+min(objective): 0.34695 -> 0.32161, length: 1, cache size: 24
+min(objective): 0.32161 -> 0.31715, length: 1, cache size: 26
+before garbage_collect. num_nodes: 97, log10(remaining): 1
+after garbage_collect. num_nodes: 97, log10(remaining): 1
+min(objective): 0.31715 -> 0.30651, length: 2, cache size: 98
+min(objective): 0.30651 -> 0.29081, length: 2, cache size: 99
+min(objective): 0.29081 -> 0.28597, length: 2, cache size: 104
+min(objective): 0.28597 -> 0.28265, length: 2, cache size: 106
+min(objective): 0.28265 -> 0.27917, length: 2, cache size: 107
+before garbage_collect. num_nodes: 180, log10(remaining): 1
+after garbage_collect. num_nodes: 180, log10(remaining): 1
+min(objective): 0.27917 -> 0.27600, length: 4, cache size: 3275
+before garbage_collect. num_nodes: 3324, log10(remaining): 1
+after garbage_collect. num_nodes: 3324, log10(remaining): 1
+min(objective): 0.27600 -> 0.27500, length: 4, cache size: 39236
+before garbage_collect. num_nodes: 39299, log10(remaining): 1
+after garbage_collect. num_nodes: 39299, log10(remaining): 1
+min(objective): 0.27500 -> 0.27282, length: 3, cache size: 112183
+before garbage_collect. num_nodes: 112209, log10(remaining): 1
+after garbage_collect. num_nodes: 112209, log10(remaining): 1
+min(objective): 0.27282 -> 0.27252, length: 4, cache size: 155808
+before garbage_collect. num_nodes: 155844, log10(remaining): 1
+after garbage_collect. num_nodes: 155844, log10(remaining): 1
+min(objective): 0.27252 -> 0.27250, length: 3, cache size: 161493
+before garbage_collect. num_nodes: 161510, log10(remaining): 1
+after garbage_collect. num_nodes: 161510, log10(remaining): 1
+min(objective): 0.27250 -> 0.26548, length: 3, cache size: 177389
+before garbage_collect. num_nodes: 177408, log10(remaining): 1
+after garbage_collect. num_nodes: 177408, log10(remaining): 1
+iter: 10000, tree: 194399, queue: 185222, pmap: 186576, log10(remaining): 1, time elapsed: 4.482144
+iter: 20000, tree: 252562, queue: 234344, pmap: 236326, log10(remaining): 1, time elapsed: 8.111592
+iter: 30000, tree: 289937, queue: 263047, pmap: 266374, log10(remaining): 1, time elapsed: 11.515222
+iter: 40000, tree: 307955, queue: 274125, pmap: 280889, log10(remaining): 1, time elapsed: 14.791064
+iter: 50000, tree: 315150, queue: 275518, pmap: 288185, log10(remaining): 1, time elapsed: 17.929904
+iter: 60000, tree: 313045, queue: 270549, pmap: 292019, log10(remaining): 1, time elapsed: 20.975323
+iter: 70000, tree: 306070, queue: 262569, pmap: 293849, log10(remaining): 1, time elapsed: 23.956986
+iter: 80000, tree: 297263, queue: 253311, pmap: 294605, log10(remaining): 1, time elapsed: 26.899510
+iter: 90000, tree: 287624, queue: 243432, pmap: 294882, log10(remaining): 1, time elapsed: 29.776880
+iter: 100000, tree: 277495, queue: 233336, pmap: 294995, log10(remaining): 1, time elapsed: 32.619391
+iter: 110000, tree: 267347, queue: 223184, pmap: 295049, log10(remaining): 1, time elapsed: 35.428563
+iter: 120000, tree: 256938, queue: 213003, pmap: 295049, log10(remaining): 1, time elapsed: 38.204661
+iter: 130000, tree: 246566, queue: 202819, pmap: 295049, log10(remaining): 1, time elapsed: 40.985543
+iter: 140000, tree: 236073, queue: 192613, pmap: 295049, log10(remaining): 1, time elapsed: 43.726626
+iter: 150000, tree: 225541, queue: 182443, pmap: 295049, log10(remaining): 1, time elapsed: 46.449279
+iter: 160000, tree: 214959, queue: 172282, pmap: 295049, log10(remaining): 1, time elapsed: 49.154857
+iter: 170000, tree: 204050, queue: 162028, pmap: 295049, log10(remaining): 1, time elapsed: 51.856154
+iter: 180000, tree: 193059, queue: 151873, pmap: 295049, log10(remaining): 1, time elapsed: 54.542157
+iter: 190000, tree: 181921, queue: 141700, pmap: 295049, log10(remaining): 1, time elapsed: 57.177820
+iter: 200000, tree: 170208, queue: 131511, pmap: 295049, log10(remaining): 1, time elapsed: 59.809525
+iter: 210000, tree: 158099, queue: 121329, pmap: 295049, log10(remaining): 1, time elapsed: 62.440411
+iter: 220000, tree: 145838, queue: 111188, pmap: 295049, log10(remaining): 1, time elapsed: 65.090237
+iter: 230000, tree: 132724, queue: 101038, pmap: 295049, log10(remaining): 1, time elapsed: 67.677059
+iter: 240000, tree: 119462, queue: 90888, pmap: 295049, log10(remaining): 1, time elapsed: 70.246016
+iter: 250000, tree: 105020, queue: 80741, pmap: 295049, log10(remaining): 1, time elapsed: 72.805007
+iter: 260000, tree: 89376, queue: 70540, pmap: 295049, log10(remaining): 1, time elapsed: 75.379809
+iter: 270000, tree: 72023, queue: 60386, pmap: 295049, log10(remaining): 1, time elapsed: 77.938003
+iter: 280000, tree: 51312, queue: 50241, pmap: 295049, log10(remaining): 1, time elapsed: 80.467884
+iter: 280495, tree: 216, queue: 0, pmap: 295049, log10(remaining): 1, time elapsed: 80.615557
+Exited because queue empty
+TREE mem usage: 31425556
+PMAP mem usage: 25816690
+QUEUE mem usage: 4194304
+Writing queue elements to: queue.txt
+Deleting queue elements and corresponding nodes in the cache,since they may not be reachable by the tree's destructor
+
+minimum objective: 0.2654835484
+minimum lower bound in queue: 1.0000000000
+
+final num_nodes: 216
+final num_evaluated: 44485
+final min_objective: 0.26548
+final accuracy: 0.76452
+
+OPTIMAL RULE LIST
+if ({dHours<40:not-1}) then ({dRpincome:1})
+else if ({iWork89:1}) then ({dRpincome:not-1})
+else if ({dAge<40:1}) then ({dRpincome:1})
+else ({dRpincome:not-1})
+
+writing optimal rule list to: ../logs/for-census_c1s50ky0.28_7_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000-opt.txt
+
+final total time: 80.618695
+
+delete identical points indicator
+delete rules
+delete labels
+tree destructors

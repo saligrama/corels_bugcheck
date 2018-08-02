@@ -1,0 +1,181 @@
+System information:
+system name-> Linux; node name-> holy2c01215.rc.fas.harvard.edu; release-> 3.10.0-514.6.1.el7.x86_64; version-> #1 SMP Wed Jan 18 13:06:36 UTC 2017; machine-> x86_64
+
+writing logs to: ../logs/for-census_c1s5ky0.28_7_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000.txt
+
+LEARNING RULE LIST via LOWER BOUND Prefix Map
+min(objective): 0.35175 -> 0.31811, length: 1, cache size: 24
+before garbage_collect. num_nodes: 99, log10(remaining): 1
+after garbage_collect. num_nodes: 99, log10(remaining): 1
+min(objective): 0.31811 -> 0.30248, length: 2, cache size: 101
+min(objective): 0.30248 -> 0.28807, length: 2, cache size: 106
+before garbage_collect. num_nodes: 185, log10(remaining): 1
+after garbage_collect. num_nodes: 185, log10(remaining): 1
+min(objective): 0.28807 -> 0.28805, length: 4, cache size: 2587
+before garbage_collect. num_nodes: 2629, log10(remaining): 1
+after garbage_collect. num_nodes: 2629, log10(remaining): 1
+min(objective): 0.28805 -> 0.28426, length: 2, cache size: 3377
+before garbage_collect. num_nodes: 3411, log10(remaining): 1
+after garbage_collect. num_nodes: 3411, log10(remaining): 1
+min(objective): 0.28426 -> 0.27584, length: 4, cache size: 4131
+min(objective): 0.27584 -> 0.27143, length: 4, cache size: 4149
+before garbage_collect. num_nodes: 4185, log10(remaining): 1
+after garbage_collect. num_nodes: 4185, log10(remaining): 1
+iter: 10000, tree: 245826, queue: 236307, pmap: 236987, log10(remaining): 1, time elapsed: 0.882543
+iter: 20000, tree: 411440, queue: 392619, pmap: 392435, log10(remaining): 1, time elapsed: 1.592566
+min(objective): 0.27143 -> 0.27061, length: 6, cache size: 417365
+min(objective): 0.27061 -> 0.27041, length: 6, cache size: 417366
+before garbage_collect. num_nodes: 417394, log10(remaining): 1
+after garbage_collect. num_nodes: 417394, log10(remaining): 1
+min(objective): 0.27041 -> 0.26981, length: 6, cache size: 458321
+min(objective): 0.26981 -> 0.26981, length: 6, cache size: 458336
+before garbage_collect. num_nodes: 458348, log10(remaining): 1
+after garbage_collect. num_nodes: 458348, log10(remaining): 1
+iter: 30000, tree: 530056, queue: 501867, pmap: 502012, log10(remaining): 1, time elapsed: 2.368203
+iter: 40000, tree: 620676, queue: 583495, pmap: 581638, log10(remaining): 1, time elapsed: 2.972031
+iter: 50000, tree: 698066, queue: 651858, pmap: 648076, log10(remaining): 1, time elapsed: 3.551734
+iter: 60000, tree: 763535, queue: 708587, pmap: 702806, log10(remaining): 1, time elapsed: 4.143509
+iter: 70000, tree: 817638, queue: 753656, pmap: 747865, log10(remaining): 1, time elapsed: 4.693523
+iter: 80000, tree: 863177, queue: 790966, pmap: 783281, log10(remaining): 1, time elapsed: 5.224618
+iter: 90000, tree: 902079, queue: 822015, pmap: 814075, log10(remaining): 1, time elapsed: 5.733101
+iter: 100000, tree: 936268, queue: 848567, pmap: 841943, log10(remaining): 1, time elapsed: 6.232899
+iter: 110000, tree: 966470, queue: 870882, pmap: 865106, log10(remaining): 1, time elapsed: 6.722807
+iter: 120000, tree: 997843, queue: 894390, pmap: 890838, log10(remaining): 1, time elapsed: 7.209130
+iter: 130000, tree: 1021587, queue: 911035, pmap: 909463, log10(remaining): 1, time elapsed: 7.824872
+iter: 140000, tree: 1040299, queue: 923021, pmap: 924142, log10(remaining): 1, time elapsed: 8.287550
+iter: 150000, tree: 1056608, queue: 933331, pmap: 939259, log10(remaining): 1, time elapsed: 8.737411
+iter: 160000, tree: 1073860, queue: 943724, pmap: 954562, log10(remaining): 1, time elapsed: 9.189521
+iter: 170000, tree: 1084788, queue: 948479, pmap: 965003, log10(remaining): 1, time elapsed: 9.630075
+iter: 180000, tree: 1095871, queue: 953859, pmap: 976227, log10(remaining): 1, time elapsed: 10.073160
+iter: 190000, tree: 1103243, queue: 956102, pmap: 984845, log10(remaining): 1, time elapsed: 10.504575
+iter: 200000, tree: 1108596, queue: 957028, pmap: 992667, log10(remaining): 1, time elapsed: 10.930980
+iter: 210000, tree: 1111132, queue: 955795, pmap: 999396, log10(remaining): 1, time elapsed: 11.355389
+iter: 220000, tree: 1111249, queue: 952572, pmap: 1004510, log10(remaining): 1, time elapsed: 11.765502
+iter: 230000, tree: 1110762, queue: 948960, pmap: 1009412, log10(remaining): 1, time elapsed: 12.179656
+iter: 240000, tree: 1109013, queue: 944237, pmap: 1013811, log10(remaining): 1, time elapsed: 12.578405
+iter: 250000, tree: 1105834, queue: 938698, pmap: 1017222, log10(remaining): 1, time elapsed: 12.978438
+iter: 260000, tree: 1102780, queue: 933164, pmap: 1020558, log10(remaining): 1, time elapsed: 13.375850
+iter: 270000, tree: 1097587, queue: 926054, pmap: 1022976, log10(remaining): 1, time elapsed: 13.765929
+iter: 280000, tree: 1094022, queue: 920367, pmap: 1026603, log10(remaining): 1, time elapsed: 14.173044
+iter: 290000, tree: 1087550, queue: 912638, pmap: 1028530, log10(remaining): 1, time elapsed: 14.560895
+iter: 300000, tree: 1080616, queue: 904619, pmap: 1029914, log10(remaining): 1, time elapsed: 14.950374
+iter: 310000, tree: 1073700, queue: 896520, pmap: 1031490, log10(remaining): 1, time elapsed: 15.333290
+iter: 320000, tree: 1065898, queue: 887793, pmap: 1032400, log10(remaining): 1, time elapsed: 15.716199
+iter: 330000, tree: 1057449, queue: 878737, pmap: 1033316, log10(remaining): 1, time elapsed: 16.093574
+iter: 340000, tree: 1048921, queue: 869546, pmap: 1034008, log10(remaining): 1, time elapsed: 16.474255
+iter: 350000, tree: 1040221, queue: 860281, pmap: 1034743, log10(remaining): 1, time elapsed: 16.851837
+iter: 360000, tree: 1031235, queue: 850777, pmap: 1035225, log10(remaining): 1, time elapsed: 17.234635
+iter: 370000, tree: 1021897, queue: 841102, pmap: 1035650, log10(remaining): 1, time elapsed: 17.612102
+iter: 380000, tree: 1012479, queue: 831351, pmap: 1035980, log10(remaining): 1, time elapsed: 17.984236
+iter: 390000, tree: 1002876, queue: 821480, pmap: 1036286, log10(remaining): 1, time elapsed: 18.354256
+iter: 400000, tree: 993237, queue: 811608, pmap: 1036553, log10(remaining): 1, time elapsed: 18.719679
+iter: 410000, tree: 983490, queue: 801657, pmap: 1036839, log10(remaining): 1, time elapsed: 19.094287
+iter: 420000, tree: 973622, queue: 791676, pmap: 1036965, log10(remaining): 1, time elapsed: 19.456268
+iter: 430000, tree: 963627, queue: 781663, pmap: 1037074, log10(remaining): 1, time elapsed: 19.818271
+iter: 440000, tree: 953508, queue: 771596, pmap: 1037160, log10(remaining): 1, time elapsed: 20.185637
+iter: 450000, tree: 943340, queue: 761480, pmap: 1037232, log10(remaining): 1, time elapsed: 20.549369
+iter: 460000, tree: 933137, queue: 751372, pmap: 1037241, log10(remaining): 1, time elapsed: 20.903724
+iter: 470000, tree: 922864, queue: 741237, pmap: 1037241, log10(remaining): 1, time elapsed: 21.260573
+iter: 480000, tree: 912616, queue: 731121, pmap: 1037241, log10(remaining): 1, time elapsed: 21.617406
+iter: 490000, tree: 902431, queue: 721004, pmap: 1037241, log10(remaining): 1, time elapsed: 21.970435
+iter: 500000, tree: 892152, queue: 710850, pmap: 1037241, log10(remaining): 1, time elapsed: 22.327249
+iter: 510000, tree: 881916, queue: 700753, pmap: 1037241, log10(remaining): 1, time elapsed: 22.683725
+iter: 520000, tree: 871508, queue: 690598, pmap: 1037241, log10(remaining): 1, time elapsed: 23.045524
+iter: 530000, tree: 861153, queue: 680453, pmap: 1037241, log10(remaining): 1, time elapsed: 23.402273
+iter: 540000, tree: 850718, queue: 670251, pmap: 1037241, log10(remaining): 1, time elapsed: 23.760995
+iter: 550000, tree: 840393, queue: 660144, pmap: 1037241, log10(remaining): 1, time elapsed: 24.125670
+iter: 560000, tree: 830039, queue: 650010, pmap: 1037241, log10(remaining): 1, time elapsed: 24.480715
+iter: 570000, tree: 819523, queue: 639865, pmap: 1037241, log10(remaining): 1, time elapsed: 24.835675
+iter: 580000, tree: 809103, queue: 629700, pmap: 1037241, log10(remaining): 1, time elapsed: 25.190226
+iter: 590000, tree: 798663, queue: 619517, pmap: 1037241, log10(remaining): 1, time elapsed: 25.539211
+iter: 600000, tree: 788173, queue: 609370, pmap: 1037241, log10(remaining): 1, time elapsed: 25.889912
+iter: 610000, tree: 777786, queue: 599273, pmap: 1037241, log10(remaining): 1, time elapsed: 26.239598
+iter: 620000, tree: 767371, queue: 589184, pmap: 1037241, log10(remaining): 1, time elapsed: 26.574792
+iter: 630000, tree: 756889, queue: 579089, pmap: 1037241, log10(remaining): 1, time elapsed: 26.916810
+iter: 640000, tree: 746256, queue: 568944, pmap: 1037241, log10(remaining): 1, time elapsed: 27.262687
+iter: 650000, tree: 735653, queue: 558797, pmap: 1037241, log10(remaining): 1, time elapsed: 27.614636
+iter: 660000, tree: 725025, queue: 548757, pmap: 1037241, log10(remaining): 1, time elapsed: 27.953828
+iter: 670000, tree: 714316, queue: 538666, pmap: 1037241, log10(remaining): 1, time elapsed: 28.296260
+iter: 680000, tree: 703578, queue: 528524, pmap: 1037241, log10(remaining): 1, time elapsed: 28.643696
+iter: 690000, tree: 692666, queue: 518373, pmap: 1037241, log10(remaining): 1, time elapsed: 28.990907
+iter: 700000, tree: 681785, queue: 508242, pmap: 1037241, log10(remaining): 1, time elapsed: 29.340499
+iter: 710000, tree: 670637, queue: 498086, pmap: 1037241, log10(remaining): 1, time elapsed: 29.688649
+iter: 720000, tree: 659861, queue: 488052, pmap: 1037241, log10(remaining): 1, time elapsed: 30.021848
+iter: 730000, tree: 649071, queue: 477940, pmap: 1037241, log10(remaining): 1, time elapsed: 30.359312
+iter: 740000, tree: 637884, queue: 467795, pmap: 1037241, log10(remaining): 1, time elapsed: 30.700139
+iter: 750000, tree: 626653, queue: 457671, pmap: 1037241, log10(remaining): 1, time elapsed: 31.043510
+iter: 760000, tree: 615986, queue: 447639, pmap: 1037241, log10(remaining): 1, time elapsed: 31.380291
+iter: 770000, tree: 604766, queue: 437556, pmap: 1037241, log10(remaining): 1, time elapsed: 31.712861
+iter: 780000, tree: 593662, queue: 427448, pmap: 1037241, log10(remaining): 1, time elapsed: 32.056451
+iter: 790000, tree: 582126, queue: 417306, pmap: 1037241, log10(remaining): 1, time elapsed: 32.407052
+iter: 800000, tree: 570981, queue: 407270, pmap: 1037241, log10(remaining): 1, time elapsed: 32.748811
+iter: 810000, tree: 559751, queue: 397131, pmap: 1037241, log10(remaining): 1, time elapsed: 33.089081
+iter: 820000, tree: 547955, queue: 386960, pmap: 1037241, log10(remaining): 1, time elapsed: 33.434887
+iter: 830000, tree: 536620, queue: 376895, pmap: 1037241, log10(remaining): 1, time elapsed: 33.769707
+iter: 840000, tree: 524640, queue: 366801, pmap: 1037241, log10(remaining): 1, time elapsed: 34.110129
+iter: 850000, tree: 512960, queue: 356682, pmap: 1037241, log10(remaining): 1, time elapsed: 34.451160
+iter: 860000, tree: 501151, queue: 346622, pmap: 1037241, log10(remaining): 1, time elapsed: 34.776151
+iter: 870000, tree: 488954, queue: 336448, pmap: 1037241, log10(remaining): 1, time elapsed: 35.119117
+iter: 880000, tree: 476623, queue: 326356, pmap: 1037241, log10(remaining): 1, time elapsed: 35.457979
+iter: 890000, tree: 463811, queue: 316241, pmap: 1037241, log10(remaining): 1, time elapsed: 35.785852
+iter: 900000, tree: 451911, queue: 306127, pmap: 1037241, log10(remaining): 1, time elapsed: 36.122383
+iter: 910000, tree: 439494, queue: 295982, pmap: 1037241, log10(remaining): 1, time elapsed: 36.447823
+iter: 920000, tree: 426976, queue: 285766, pmap: 1037241, log10(remaining): 1, time elapsed: 36.797430
+iter: 930000, tree: 414235, queue: 275742, pmap: 1037241, log10(remaining): 1, time elapsed: 37.115876
+iter: 940000, tree: 401417, queue: 265562, pmap: 1037241, log10(remaining): 1, time elapsed: 37.456450
+iter: 950000, tree: 388412, queue: 255493, pmap: 1037241, log10(remaining): 1, time elapsed: 37.780811
+iter: 960000, tree: 375955, queue: 245296, pmap: 1037241, log10(remaining): 1, time elapsed: 38.114740
+iter: 970000, tree: 363057, queue: 235223, pmap: 1037241, log10(remaining): 1, time elapsed: 38.447162
+iter: 980000, tree: 349992, queue: 225095, pmap: 1037241, log10(remaining): 1, time elapsed: 38.773924
+iter: 990000, tree: 337051, queue: 215020, pmap: 1037241, log10(remaining): 1, time elapsed: 39.103370
+iter: 1000000, tree: 323027, queue: 204827, pmap: 1037241, log10(remaining): 1, time elapsed: 39.428630
+iter: 1010000, tree: 309605, queue: 194723, pmap: 1037241, log10(remaining): 1, time elapsed: 39.763017
+iter: 1020000, tree: 295789, queue: 184606, pmap: 1037241, log10(remaining): 1, time elapsed: 40.086646
+iter: 1030000, tree: 281743, queue: 174467, pmap: 1037241, log10(remaining): 1, time elapsed: 40.425885
+iter: 1040000, tree: 267517, queue: 164396, pmap: 1037241, log10(remaining): 1, time elapsed: 40.743736
+iter: 1050000, tree: 252684, queue: 154290, pmap: 1037241, log10(remaining): 1, time elapsed: 41.077605
+iter: 1060000, tree: 238384, queue: 144162, pmap: 1037241, log10(remaining): 1, time elapsed: 41.401051
+iter: 1070000, tree: 223141, queue: 134078, pmap: 1037241, log10(remaining): 1, time elapsed: 41.731751
+iter: 1080000, tree: 207300, queue: 123882, pmap: 1037241, log10(remaining): 1, time elapsed: 42.060963
+iter: 1090000, tree: 191556, queue: 113782, pmap: 1037241, log10(remaining): 1, time elapsed: 42.393996
+iter: 1100000, tree: 175699, queue: 103646, pmap: 1037241, log10(remaining): 1, time elapsed: 42.719071
+iter: 1110000, tree: 158875, queue: 93571, pmap: 1037241, log10(remaining): 1, time elapsed: 43.048986
+iter: 1120000, tree: 142395, queue: 83404, pmap: 1037241, log10(remaining): 1, time elapsed: 43.376555
+iter: 1130000, tree: 125830, queue: 73362, pmap: 1037241, log10(remaining): 1, time elapsed: 43.691532
+iter: 1140000, tree: 106908, queue: 63109, pmap: 1037241, log10(remaining): 1, time elapsed: 44.037454
+iter: 1150000, tree: 88304, queue: 53093, pmap: 1037241, log10(remaining): 1, time elapsed: 44.346078
+iter: 1160000, tree: 68185, queue: 42844, pmap: 1037241, log10(remaining): 1, time elapsed: 44.688704
+iter: 1170000, tree: 45433, queue: 32825, pmap: 1037241, log10(remaining): 1, time elapsed: 44.996940
+iter: 1178402, tree: 520, queue: 0, pmap: 1037241, log10(remaining): 1, time elapsed: 45.280922
+Exited because queue empty
+TREE mem usage: 132005732
+PMAP mem usage: 102044755
+QUEUE mem usage: 8388608
+Writing queue elements to: queue.txt
+Deleting queue elements and corresponding nodes in the cache,since they may not be reachable by the tree's destructor
+
+minimum objective: 0.2698098098
+minimum lower bound in queue: 1.0000000000
+
+final num_nodes: 520
+final num_evaluated: 183027
+final min_objective: 0.26981
+final accuracy: 0.79019
+
+OPTIMAL RULE LIST
+if ({iMilitary:not-4}) then ({dRpincome:1})
+else if ({iDisabl1:not-2}) then ({dRpincome:not-1})
+else if ({dHour89=0:1}) then ({dRpincome:1})
+else if ({iRelat1:0}) then ({dRpincome:1})
+else if ({dHours<30:1}) then ({dRpincome:not-1})
+else if ({dWeek89<52:not-1}) then ({dRpincome:1})
+else ({dRpincome:not-1})
+
+writing optimal rule list to: ../logs/for-census_c1s5ky0.28_7_train.out-curious_lb-with_prefix_perm_map-minor-removed=none-max_num_nodes=2000000000-c=0.0100000-v=progress,log-f=1000-opt.txt
+
+final total time: 45.452520
+
+delete identical points indicator
+delete rules
+delete labels
+tree destructors
