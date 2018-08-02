@@ -1,0 +1,1 @@
+{iYearwrk:0}~1;{iDisabl2:not-2}~0;{dHour89=0:1}~1;{iRelat1:0}~1;{dHours<30:1}~0;{dAge<30:not-1}~1;default~0

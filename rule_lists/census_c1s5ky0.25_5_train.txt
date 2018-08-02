@@ -1,0 +1,1 @@
+{dWeek89<52:not-1}~1;{iMilitary:not-4}~1;{dAge<50:not-1}~0;{dHour89=0:1}~1;default~0
