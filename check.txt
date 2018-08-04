@@ -1,0 +1,90 @@
+census_c1s10ky0.25_0_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_1_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_2_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_3_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_4_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.25_5_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_6_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_7_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_8_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.25_9_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.28_0_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.28_1_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.28_2_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.28_3_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.28_4_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.28_5_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.28_6_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.28_7_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.28_8_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.28_9_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_0_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_1_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_2_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_3_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_4_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_5_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_6_train.txt RULE LISTS IDENTICAL
+census_c1s10ky0.3_7_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.3_8_train.txt OBJECTIVES EQUAL
+census_c1s10ky0.3_9_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.25_0_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_1_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_2_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_3_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.25_4_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.25_5_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_6_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_7_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_8_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.25_9_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_0_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_1_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_2_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.28_3_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_4_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_5_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_6_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.28_7_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_8_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.28_9_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.3_0_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.3_1_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.3_2_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.3_3_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.3_4_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.3_5_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.3_6_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.3_7_train.txt RULE LISTS IDENTICAL
+census_c1s50ky0.3_8_train.txt OBJECTIVES EQUAL
+census_c1s50ky0.3_9_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.25_0_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.25_1_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.25_2_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.25_3_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.25_4_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.25_5_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.25_6_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.25_7_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.25_8_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.25_9_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.28_0_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.28_1_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.28_2_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.28_3_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.28_4_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.28_5_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.28_6_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.28_7_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.28_8_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.28_9_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_0_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_1_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_2_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_3_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_4_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.3_5_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_6_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.3_7_train.txt RULE LISTS IDENTICAL
+census_c1s5ky0.3_8_train.txt OBJECTIVES EQUAL
+census_c1s5ky0.3_9_train.txt RULE LISTS IDENTICAL

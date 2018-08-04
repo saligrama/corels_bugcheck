@@ -1,0 +1,1 @@
+{dHours<40:not-1}~1;{dHour89=0:not-1}~0;{dAge<40:1}~1;default~0
